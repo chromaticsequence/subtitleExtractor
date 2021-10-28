@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="348800000t" end="384000000t" region="bottomCenter" style="s1" xml:id="subtitle0">[звон ключей]</p>
+<p begin="455200000t" end="490000000t" region="bottomCenter" style="s1" xml:id="subtitle1">[приближаются шаги]</p>
+<p begin="503600000t" end="524800000t" region="bottomCenter" style="s1" xml:id="subtitle2">[открывается дверь]</p>
+<p begin="577600000t" end="588000000t" region="bottomCenter" style="s1" xml:id="subtitle3">Крюков,</p>
+<p begin="592000000t" end="606400000t" region="bottomCenter" style="s1" xml:id="subtitle4">на свободу собираешься?</p>
+<p begin="770000000t" end="779200000t" region="bottomCenter" style="s1" xml:id="subtitle5">Клево.</p>
+<p begin="846800000t" end="860000000t" region="bottomCenter" style="s1" xml:id="subtitle6">[охранник] Лицом к стене.</p>
+<p begin="927600000t" end="951200000t" region="bottomCenter" style="s1" xml:id="subtitle7">Справку далеко не прячь,<br/>на КПП покажешь.</p>
+<p begin="956400000t" end="968800000t" region="bottomCenter" style="s1" xml:id="subtitle8">Сюда не возвращайся.</p>
+<p begin="986800000t" end="1001600000t" region="bottomCenter" style="s1" xml:id="subtitle9">Здесь тебе нечего делать.</p>
+<p begin="1008000000t" end="1018000000t" region="bottomCenter" style="s1" xml:id="subtitle10">Понял?</p>
+<p begin="1456000000t" end="1479200000t" region="bottomCenter" style="s1" xml:id="subtitle11">[детский смех]</p>
+<p begin="2469600000t" end="2489600000t" region="topCenter" style="s1" xml:id="subtitle12">- [щебетание птиц]<br/>- [щелчок затвора фотоаппарата]</p>
+<p begin="2554400000t" end="2580400000t" region="topCenter" style="s1" xml:id="subtitle13">[Людмила] Просто сыплются на него<br/>неприятности,</p>
+<p begin="2606800000t" end="2628000000t" region="topCenter" style="s1" xml:id="subtitle14">как будто, простите,<br/>кто-то его сглазил.</p>
+<p begin="2636800000t" end="2648400000t" region="topCenter" style="s1" xml:id="subtitle15">Кого?</p>
+<p begin="2655200000t" end="2678800000t" region="topCenter" style="s1" xml:id="subtitle16">Класс. 11-й класс.</p>
+<p begin="2706000000t" end="2730000000t" region="topCenter" style="s1" xml:id="subtitle17">Беда за бедой. Трагедия за трагедией.</p>
+<p begin="2747600000t" end="2758800000t" region="topCenter" style="s1" xml:id="subtitle18">[захлопывается дверь машины]</p>
+<p begin="2763200000t" end="2794800000t" region="topCenter" style="s1" xml:id="subtitle19">А класс<br/>тем временем прекрасный. Лучший...</p>
+<p begin="2816800000t" end="2831200000t" region="topCenter" style="s1" xml:id="subtitle20">В районе как минимум.</p>
+<p begin="2891200000t" end="2902000000t" region="topCenter" style="s1" xml:id="subtitle21">[заводится двигатель машины]</p>
+<p begin="2942800000t" end="2956400000t" region="topCenter" style="s1" xml:id="subtitle22">Людмила Михайловна,</p>
+<p begin="2970400000t" end="2981600000t" region="topCenter" style="s1" xml:id="subtitle23">как вы думаете?</p>
+<p begin="2996800000t" end="3008000000t" region="topCenter" style="s1" xml:id="subtitle24">Что произошло?</p>
+<p begin="3031600000t" end="3052400000t" region="topCenter" style="s1" xml:id="subtitle25">А у вас есть какие-то сомнения?</p>
+<p begin="3070000000t" end="3084800000t" region="topCenter" style="s1" xml:id="subtitle26">Конечно, это самоубийство.</p>
+<p begin="3108400000t" end="3124000000t" region="topCenter" style="s1" xml:id="subtitle27">Это ведь самоубийство, да?</p>
+<p begin="3176800000t" end="3187200000t" region="topCenter" style="s1" xml:id="subtitle28">Да.</p>
+<p begin="3202000000t" end="3211200000t" region="topCenter" style="s1" xml:id="subtitle29">Скорей всего.</p>
+<p begin="3212400000t" end="3240000000t" region="topCenter" style="s1" xml:id="subtitle30">[звук удаляющихся шагов]</p>
+<p begin="3242000000t" end="3265200000t" region="topCenter" style="s1" xml:id="subtitle31">[Наташа плачет]</p>
+<p begin="3388800000t" end="3411200000t" region="topCenter" style="s1" xml:id="subtitle32">Моя фамилия Крюков.</p>
+<p begin="3433200000t" end="3444400000t" region="topCenter" style="s1" xml:id="subtitle33">Игорь Андреевич</p>
+<p begin="3474000000t" end="3491200000t" region="topCenter" style="s1" xml:id="subtitle34">Участковый, капитан полиции.</p>
+<p begin="3518000000t" end="3535200000t" region="topCenter" style="s1" xml:id="subtitle35">Формы нет, извините, сдал.</p>
+<p begin="3548000000t" end="3559200000t" region="topCenter" style="s1" xml:id="subtitle36">В химчистку.</p>
+<p begin="3580000000t" end="3595600000t" region="topCenter" style="s1" xml:id="subtitle37">Ну что, давайте знакомиться.</p>
+<p begin="3609600000t" end="3619600000t" region="topCenter" style="s1" xml:id="subtitle38">[открывается дверь]</p>
+<p begin="3625200000t" end="3635600000t" region="topCenter" style="s1" xml:id="subtitle39">Можно?</p>
+<p begin="3649600000t" end="3659200000t" region="topCenter" style="s1" xml:id="subtitle40">Это я тут гость.</p>
+<p begin="3676000000t" end="3686800000t" region="topCenter" style="s1" xml:id="subtitle41">Значит, можно.</p>
+<p begin="3721200000t" end="3759600000t" region="topCenter" style="s1" xml:id="subtitle42">Ну давайте так, и вам привычней,<br/>и мне спокойней: я называю фамилию,</p>
+<p begin="3762400000t" end="3793600000t" region="topCenter" style="s1" xml:id="subtitle43">а вы как обычно.<br/>Поехали! Барковский Михаил.</p>
+<p begin="3794800000t" end="3804800000t" region="topCenter" style="s1" xml:id="subtitle44">Я.</p>
+<p begin="3848000000t" end="3859600000t" region="bottomCenter" style="s1" xml:id="subtitle45">Спасибо.</p>
+<p begin="3870400000t" end="3887600000t" region="bottomCenter" style="s1" xml:id="subtitle46">Белодедова Наталья.</p>
+<p begin="3974000000t" end="3984000000t" region="bottomCenter" style="s1" xml:id="subtitle47">Присаживайтесь.</p>
+<p begin="4007200000t" end="4022000000t" region="bottomCenter" style="s1" xml:id="subtitle48">Галимов Марат.</p>
+<p begin="4083600000t" end="4095600000t" region="bottomCenter" style="s1" xml:id="subtitle49">Довженко Георгий.</p>
+<p begin="4155600000t" end="4175200000t" region="bottomCenter" style="s1" xml:id="subtitle50">Мелкова Анна.</p>
+<p begin="4245200000t" end="4256000000t" region="bottomCenter" style="s1" xml:id="subtitle51">Присаживайтесь.</p>
+<p begin="4259600000t" end="4273200000t" region="bottomCenter" style="s1" xml:id="subtitle52">Палий Олеся.</p>
+<p begin="4303200000t" end="4314800000t" region="bottomCenter" style="s1" xml:id="subtitle53">Суворова Кристина.</p>
+<p begin="4345200000t" end="4354400000t" region="bottomCenter" style="s1" xml:id="subtitle54">Благодарю.</p>
+<p begin="4391600000t" end="4406000000t" region="bottomCenter" style="s1" xml:id="subtitle55">Худяков Руслан.</p>
+<p begin="4451600000t" end="4462000000t" region="bottomCenter" style="s1" xml:id="subtitle56">Шорина Ирина.</p>
+<p begin="4553600000t" end="4564800000t" region="bottomCenter" style="s1" xml:id="subtitle57">Юров Максим.</p>
+<p begin="4609200000t" end="4619600000t" region="bottomCenter" style="s1" xml:id="subtitle58">- Юров Максим!<br/>- [удар]</p>
+<p begin="4664000000t" end="4672800000t" region="bottomCenter" style="s1" xml:id="subtitle59">Садись.</p>
+<p begin="4682000000t" end="4692000000t" region="bottomCenter" style="s1" xml:id="subtitle60">Юров.</p>
+<p begin="4702400000t" end="4723600000t" region="bottomCenter" style="s1" xml:id="subtitle61">В журнале фигурирует некто</p>
+<p begin="4732400000t" end="4743600000t" region="bottomCenter" style="s1" xml:id="subtitle62">Русанова Алина.</p>
+<p begin="4756400000t" end="4776400000t" region="bottomCenter" style="s1" xml:id="subtitle63">А написано, что она выбыла.<br/>Куда? Когда?</p>
+<p begin="4835600000t" end="4845200000t" region="bottomCenter" style="s1" xml:id="subtitle64">Она погибла.</p>
+<p begin="4859200000t" end="4869200000t" region="bottomCenter" style="s1" xml:id="subtitle65">Не так давно.</p>
+<p begin="4892400000t" end="4921200000t" region="bottomCenter" style="s1" xml:id="subtitle66">Вы... простите,<br/>я не знаю, как к вам обращаться.</p>
+<p begin="4935200000t" end="4944400000t" region="bottomCenter" style="s1" xml:id="subtitle67">Игорь Андреевич.</p>
+<p begin="4959600000t" end="4972800000t" region="bottomCenter" style="s1" xml:id="subtitle68">Игорь Андреевич...</p>
+<p begin="4998400000t" end="5012400000t" region="bottomCenter" style="s1" xml:id="subtitle69">Просто дело в том, что</p>
+<p begin="5016000000t" end="5029600000t" region="bottomCenter" style="s1" xml:id="subtitle70">у нас у всех сейчас...</p>
+<p begin="5038800000t" end="5066470000t" region="topCenter" style="s1" xml:id="subtitle71">...состояние шоковое.</p>
+<p begin="5072000000t" end="5098800000t" region="topCenter" style="s1" xml:id="subtitle72">Нет, конечно мы можем ответить<br/>на все ваши вопросы, но...</p>
+<p begin="5099600000t" end="5119600000t" region="topCenter" style="s1" xml:id="subtitle73">А ты ведь недавно<br/>в этой школе, да, Миш?</p>
+<p begin="5158400000t" end="5170000000t" region="bottomCenter" style="s1" xml:id="subtitle74">Да.</p>
+<p begin="5196000000t" end="5227600000t" region="bottomCenter" style="s1" xml:id="subtitle75">Так, господа одиннадцатиклассники!</p>
+<p begin="5232400000t" end="5261600000t" region="bottomCenter" style="s1" xml:id="subtitle76">Пожалуйста, закройте свои<br/>взрослые ротики</p>
+<p begin="5262800000t" end="5284000000t" region="bottomCenter" style="s1" xml:id="subtitle77">и послушайте, наконец, старую училку.</p>
+<p begin="5296800000t" end="5316800000t" region="bottomCenter" style="s1" xml:id="subtitle78">Ваша классная руководительница</p>
+<p begin="5317600000t" end="5337600000t" region="bottomCenter" style="s1" xml:id="subtitle79">задержалась по очень печальному поводу.</p>
+<p begin="5341200000t" end="5367600000t" region="bottomCenter" style="s1" xml:id="subtitle80">В Костроме скоропостижно<br/>скончались ее родители.</p>
+<p begin="5382800000t" end="5402000000t" region="bottomCenter" style="s1" xml:id="subtitle81">И у нее возникли бытовые проблемы.</p>
+<p begin="5410800000t" end="5441600000t" region="bottomCenter" style="s1" xml:id="subtitle82">Как только она их решит,<br/>то сразу вернется и...</p>
+<p begin="5456400000t" end="5473200000t" region="bottomCenter" style="s1" xml:id="subtitle83">...и продолжит воспитывать вас...</p>
+<p begin="5477600000t" end="5494800000t" region="bottomCenter" style="s1" xml:id="subtitle84">...редких, по-моему, оболтусов.</p>
+<p begin="5502400000t" end="5529600000t" region="bottomCenter" style="s1" xml:id="subtitle85">Людмилочка Михайловна, прерву ровно<br/>на одну минуту. Сидите.</p>
+<p begin="5530400000t" end="5550400000t" region="bottomCenter" style="s1" xml:id="subtitle86">[Людмила] Да. Прошу, прошу,<br/>Юрий Васильевич!</p>
+<p begin="5584800000t" end="5596400000t" region="bottomCenter" style="s1" xml:id="subtitle87">Дамы и господа!</p>
+<p begin="5608800000t" end="5636400000t" region="bottomCenter" style="s1" xml:id="subtitle88">Хочу представить вам нового ученика,</p>
+<p begin="5644800000t" end="5658800000t" region="bottomCenter" style="s1" xml:id="subtitle89">Барковского Михаила.</p>
+<p begin="5668400000t" end="5700800000t" region="bottomCenter" style="s1" xml:id="subtitle90">Я попрошу, чтобы вы максимально быстро</p>
+<p begin="5706000000t" end="5727600000t" region="bottomCenter" style="s1" xml:id="subtitle91">ознакомили его<br/>со всеми классными делами</p>
+<p begin="5728400000t" end="5746400000t" region="bottomCenter" style="s1" xml:id="subtitle92">и ни в коем случае, прошу,</p>
+<p begin="5752400000t" end="5764000000t" region="bottomCenter" style="s1" xml:id="subtitle93">не обижали его.</p>
+<p begin="5774800000t" end="5808000000t" region="bottomCenter" style="s1" xml:id="subtitle94">И мы скоро примем его<br/>в нашу школьную семью.</p>
+<p begin="5808800000t" end="5826400000t" region="bottomCenter" style="s1" xml:id="subtitle95">- Ага, шведскую.<br/>- [хихикает]</p>
+<p begin="5827600000t" end="5836000000t" region="bottomCenter" style="s1" xml:id="subtitle96">Что?</p>
+<p begin="5838400000t" end="5864400000t" region="bottomCenter" style="s1" xml:id="subtitle97">Суворова, не перебивай<br/>своего директора.</p>
+<p begin="5865200000t" end="5896400000t" region="bottomCenter" style="s1" xml:id="subtitle98">И не оперируй понятиями,<br/>о которых ты не имеешь представления.</p>
+<p begin="5897600000t" end="5931200000t" region="bottomCenter" style="s1" xml:id="subtitle99">Ну, собственно говоря, уже практически<br/>все сказал. Еще раз</p>
+<p begin="5932400000t" end="5958400000t" region="bottomCenter" style="s1" xml:id="subtitle100">поздравляю вас с наступающим</p>
+<p begin="5959600000t" end="5980400000t" region="bottomCenter" style="s1" xml:id="subtitle101">новым школьным сезоном!</p>
+<p begin="5986000000t" end="6002000000t" region="bottomCenter" style="s1" xml:id="subtitle102">[Людмила] Спасибо, Юрий Васильевич!</p>
+<p begin="6028800000t" end="6040000000t" region="bottomCenter" style="s1" xml:id="subtitle103">[целует]</p>
+<p begin="6056000000t" end="6080800000t" region="bottomCenter" style="s1" xml:id="subtitle104">- Папа, блин, в своем репертуаре.<br/>- [закрывается дверь]</p>
+<p begin="6083200000t" end="6094400000t" region="bottomCenter" style="s1" xml:id="subtitle105">[Людмила прокашливается]</p>
+<p begin="6099200000t" end="6126800000t" region="bottomCenter" style="s1" xml:id="subtitle106">Ну что ж, Миша!<br/>Смелее занимайте свободное место.</p>
+<p begin="6135600000t" end="6144800000t" region="bottomCenter" style="s1" xml:id="subtitle107">Спасибо.</p>
+<p begin="6166400000t" end="6192400000t" region="bottomCenter" style="s1" xml:id="subtitle108">- Новенький.<br/>- Да ну! Ботан какой-то.</p>
+<p begin="6196800000t" end="6210800000t" region="bottomCenter" style="s1" xml:id="subtitle109">Можно я стул возьму?</p>
+<p begin="6217600000t" end="6236800000t" region="bottomCenter" style="s1" xml:id="subtitle110">- [фырканье]<br/>- [ученики смеются]</p>
+<p begin="6272000000t" end="6299200000t" region="bottomCenter" style="s1" xml:id="subtitle111">Новенький увел мою принцессу.<br/>Пойду повешусь.</p>
+<p begin="6305600000t" end="6315200000t" region="bottomCenter" style="s1" xml:id="subtitle112">Худяков, пойди.</p>
+<p begin="6319200000t" end="6335600000t" region="bottomCenter" style="s1" xml:id="subtitle113">Кабинет директора —<br/>вторая дверь налево.</p>
+<p begin="6338400000t" end="6353600000t" region="bottomCenter" style="s1" xml:id="subtitle114"><span style="s1_1">Don’t worry,</span> Людмила Михайловна.</p>
+<p begin="6377600000t" end="6392000000t" region="bottomCenter" style="s1" xml:id="subtitle115">- <span style="s1_1">Welcome.</span><br/>- Довженко!</p>
+<p begin="6419200000t" end="6430800000t" region="bottomCenter" style="s1" xml:id="subtitle116">Хорош, а?</p>
+<p begin="6440800000t" end="6451600000t" region="bottomCenter" style="s1" xml:id="subtitle117">[Людмила] Довженко.</p>
+<p begin="6474800000t" end="6486400000t" region="bottomCenter" style="s1" xml:id="subtitle118">[Крюков] <span style="s1_1">Давайте вернемся</span></p>
+<p begin="6488800000t" end="6499600000t" region="bottomCenter" style="s1" xml:id="subtitle119">к сегодняшнему дню.</p>
+<p begin="6500400000t" end="6526800000t" region="bottomCenter" style="s1" xml:id="subtitle120">Значит, мальчики были<br/>в спортзале на занятии физкультуры.</p>
+<p begin="6527600000t" end="6537600000t" region="bottomCenter" style="s1" xml:id="subtitle121">Все были в спортзале?</p>
+<p begin="6575600000t" end="6593600000t" region="bottomCenter" style="s1" xml:id="subtitle122">Ладно. Девочки были здесь в классе.</p>
+<p begin="6598000000t" end="6610000000t" region="bottomCenter" style="s1" xml:id="subtitle123">Почему не в спортзале?</p>
+<p begin="6645600000t" end="6654800000t" region="bottomCenter" style="s1" xml:id="subtitle124">Отпросились.</p>
+<p begin="6661200000t" end="6694800000t" region="bottomCenter" style="s1" xml:id="subtitle125">Мы выступление<br/>на последний звонок делаем.</p>
+<p begin="6699200000t" end="6719200000t" region="bottomCenter" style="s1" xml:id="subtitle126">Времени не хватает и...</p>
+<p begin="6725200000t" end="6743200000t" region="bottomCenter" style="s1" xml:id="subtitle127">...Владимир Ованесович нас отпустил.</p>
+<p begin="6761200000t" end="6777200000t" region="bottomCenter" style="s1" xml:id="subtitle128">Где была Анастасия Николаевна?</p>
+<p begin="6790000000t" end="6804800000t" region="bottomCenter" style="s1" xml:id="subtitle129">Здесь была, с нами.</p>
+<p begin="6818400000t" end="6838800000t" region="bottomCenter" style="s1" xml:id="subtitle130">Мы песню по-английски там поем.</p>
+<p begin="6848400000t" end="6864000000t" region="bottomCenter" style="s1" xml:id="subtitle131">Она нам помочь собиралась.</p>
+<p begin="6875200000t" end="6886000000t" region="bottomCenter" style="s1" xml:id="subtitle132">А что было дальше?</p>
+<p begin="6906400000t" end="6921600000t" region="bottomCenter" style="s1" xml:id="subtitle133">Она вдруг встала и вышла.</p>
+<p begin="6927200000t" end="6938800000t" region="bottomCenter" style="s1" xml:id="subtitle134">Молча.</p>
+<p begin="6946800000t" end="6961600000t" region="bottomCenter" style="s1" xml:id="subtitle135">Просто встала и вышла?</p>
+<p begin="6980400000t" end="6993600000t" region="bottomCenter" style="s1" xml:id="subtitle136">Просто встала и вышла.</p>
+<p begin="7097200000t" end="7106800000t" region="bottomCenter" style="s1" xml:id="subtitle137">Хорошо.</p>
+<p begin="7124800000t" end="7150800000t" region="bottomCenter" style="s1" xml:id="subtitle138">Дальше что было, Довженко Георгий?</p>
+<p begin="7160000000t" end="7170000000t" region="bottomCenter" style="s1" xml:id="subtitle139">Что?</p>
+<p begin="7187200000t" end="7203200000t" region="bottomCenter" style="s1" xml:id="subtitle140">Ну ты же был в спортзале?</p>
+<p begin="7222000000t" end="7231200000t" region="bottomCenter" style="s1" xml:id="subtitle141">Был.</p>
+<p begin="7241200000t" end="7254400000t" region="bottomCenter" style="s1" xml:id="subtitle142">Что было дальше?</p>
+<p begin="7304800000t" end="7314800000t" region="bottomCenter" style="s1" xml:id="subtitle143">Там...</p>
+<p begin="7332800000t" end="7350000000t" region="bottomCenter" style="s1" xml:id="subtitle144">...так быстро всё было. Там...</p>
+<p begin="7364800000t" end="7410800000t" region="bottomCenter" style="s1" xml:id="subtitle145">Анастасия Николаевна,<br/>она забежала быстро и...</p>
+<p begin="7431200000t" end="7452400000t" region="bottomCenter" style="s1" xml:id="subtitle146">- Но она резко вышла...<br/>- [Миша] Игорь Андреевич,</p>
+<p begin="7459600000t" end="7491600000t" region="bottomCenter" style="s1" xml:id="subtitle147">разве вы не видите — человеку плохо?<br/>Мы все там были.</p>
+<p begin="7497600000t" end="7513200000t" region="bottomCenter" style="s1" xml:id="subtitle148">Она зашла...</p>
+<p begin="7531600000t" end="7560000000t" region="bottomCenter" style="s1" xml:id="subtitle149">...по-моему, даже ни на кого<br/>не посмотрела, потом резко вышла.</p>
+<p begin="7560800000t" end="7580800000t" region="bottomCenter" style="s1" xml:id="subtitle150">Мы не поняли в чем дело.</p>
+<p begin="7591600000t" end="7608800000t" region="bottomCenter" style="s1" xml:id="subtitle151">Решили пойти за ней.</p>
+<p begin="7620800000t" end="7642800000t" region="bottomCenter" style="s1" xml:id="subtitle152">Дошли до лестницы.</p>
+<p begin="7656000000t" end="7666000000t" region="bottomCenter" style="s1" xml:id="subtitle153">А она уже была внизу.</p>
+<p begin="7667200000t" end="7691200000t" region="bottomCenter" style="s1" xml:id="subtitle154">Зачем вы пошли за ней?<br/>Что с ней было не так?</p>
+<p begin="7693200000t" end="7720800000t" region="bottomCenter" style="s1" xml:id="subtitle155">- Она плакала, может быть?<br/>- А вы что нас уже допрашиваете?</p>
+<p begin="7748800000t" end="7758400000t" region="bottomCenter" style="s1" xml:id="subtitle156">Нет.</p>
+<p begin="7788400000t" end="7798000000t" region="bottomCenter" style="s1" xml:id="subtitle157">Увлекся.</p>
+<p begin="7811200000t" end="7820400000t" region="bottomCenter" style="s1" xml:id="subtitle158">Спасибо.</p>
+<p begin="7832800000t" end="7844000000t" region="bottomCenter" style="s1" xml:id="subtitle159">Вы мне очень помогли.</p>
+<p begin="7860800000t" end="7870800000t" region="bottomCenter" style="s1" xml:id="subtitle160">Можете идти.</p>
+<p begin="7963600000t" end="7977600000t" region="bottomCenter" style="s1" xml:id="subtitle161">Пойдем! [бормочет]</p>
+<p begin="8009600000t" end="8018000000t" region="bottomCenter" style="s1" xml:id="subtitle162">Да?</p>
+<p begin="8084800000t" end="8096000000t" region="bottomCenter" style="s1" xml:id="subtitle163">[закрывается дверь]</p>
+<p begin="8153600000t" end="8166400000t" region="bottomCenter" style="s1" xml:id="subtitle164">[щелчок затвора фотоаппарата]</p>
+<p begin="8377200000t" end="8398400000t" region="bottomCenter" style="s1" xml:id="subtitle165">- Привет, Крюков.<br/>- Привет, Тош. Как ты?</p>
+<p begin="8405600000t" end="8417600000t" region="bottomCenter" style="s1" xml:id="subtitle166">Простудилась нафиг.</p>
+<p begin="8432400000t" end="8442800000t" region="bottomCenter" style="s1" xml:id="subtitle167">Какие новости?</p>
+<p begin="8451200000t" end="8479200000t" region="bottomCenter" style="s1" xml:id="subtitle168">Нефть марки Brent торгует<br/>на восемь пунктов ниже.</p>
+<p begin="8480000000t" end="8497200000t" region="bottomCenter" style="s1" xml:id="subtitle169">В Таиланде наводнение.</p>
+<p begin="8498800000t" end="8511200000t" region="bottomCenter" style="s1" xml:id="subtitle170">В Москве пасмурно.</p>
+<p begin="8512000000t" end="8549200000t" region="bottomCenter" style="s1" xml:id="subtitle171">В Петербурге молодая учительница<br/>из окна выпала. Это из новостей.</p>
+<p begin="8564800000t" end="8573600000t" region="bottomCenter" style="s1" xml:id="subtitle172">Ладно.</p>
+<p begin="8584800000t" end="8614000000t" region="bottomCenter" style="s1" xml:id="subtitle173">Первым беглым взглядом —<br/>девушка не беременна!</p>
+<p begin="8621600000t" end="8631600000t" region="bottomCenter" style="s1" xml:id="subtitle174">Следов насилия нет.</p>
+<p begin="8639200000t" end="8673200000t" region="bottomCenter" style="s1" xml:id="subtitle175">Вероятно, есть разрывы<br/>внутренних органов, но причина смерти —</p>
+<p begin="8676800000t" end="8690800000t" region="bottomCenter" style="s1" xml:id="subtitle176">перелом позвоночника.</p>
+<p begin="8692400000t" end="8720800000t" region="bottomCenter" style="s1" xml:id="subtitle177">Остальное — при детальном осмотре.</p>
+<p begin="8744000000t" end="8757600000t" region="bottomCenter" style="s1" xml:id="subtitle178">Я тебе по жизни должен.</p>
+<p begin="8780400000t" end="8792400000t" region="bottomCenter" style="s1" xml:id="subtitle179">Может, переспим?</p>
+<p begin="8812800000t" end="8834800000t" region="bottomCenter" style="s1" xml:id="subtitle180">Да нет, у меня же насморк.</p>
+<p begin="8843200000t" end="8867600000t" region="bottomCenter" style="s1" xml:id="subtitle181">Целоваться не смогу —<br/>дышать будет нечем.</p>
+<p begin="8878400000t" end="8888400000t" region="bottomCenter" style="s1" xml:id="subtitle182">А так бы, да!</p>
+<p begin="8898800000t" end="8916800000t" region="bottomCenter" style="s1" xml:id="subtitle183">А, нет! Я ж замужем.</p>
+<p begin="8930400000t" end="8939600000t" region="bottomCenter" style="s1" xml:id="subtitle184">Забыла.</p>
+<p begin="8952800000t" end="8962400000t" region="bottomCenter" style="s1" xml:id="subtitle185">Спасибо.</p>
+<p begin="9057200000t" end="9069200000t" region="bottomCenter" style="s1" xml:id="subtitle186">Ну чё? Как он, Тош?</p>
+<p begin="9074800000t" end="9084800000t" region="bottomCenter" style="s1" xml:id="subtitle187">В смысле?</p>
+<p begin="9092800000t" end="9116400000t" region="bottomCenter" style="s1" xml:id="subtitle188">Ну что в смысле?<br/>Ситуация же один в один.</p>
+<p begin="9127600000t" end="9136800000t" region="bottomCenter" style="s1" xml:id="subtitle189"><span style="s1_1">Вышла из окна.</span></p>
+<p begin="9146000000t" end="9169600000t" region="bottomCenter" style="s1" xml:id="subtitle190"><span style="s1_1">Даже чем-то внешне на его жену похожа.</span><br/><span style="s1_1">Я выезжал тогда.</span></p>
+<p begin="9211600000t" end="9226800000t" region="bottomCenter" style="s1" xml:id="subtitle191"><span style="s1_1">Надо же, на его участке.</span><br/><span style="s1_1">Как специально.</span></p>
+<p begin="9228000000t" end="9236800000t" region="bottomCenter" style="s1" xml:id="subtitle192">Сём,</p>
+<p begin="9243600000t" end="9276800000t" region="bottomCenter" style="s1" xml:id="subtitle193">у меня насморк,<br/>ты держись от меня подальше. Ладно?</p>
+<p begin="9287200000t" end="9296000000t" region="bottomCenter" style="s1" xml:id="subtitle194">Угу.</p>
+<p begin="9746400000t" end="9756000000t" region="bottomCenter" style="s1" xml:id="subtitle195">Послушай меня,</p>
+<p begin="9777200000t" end="9796800000t" region="bottomCenter" style="s1" xml:id="subtitle196">- если хоть один человек...<br/>- [тяжело дышит]</p>
+<p begin="9805200000t" end="9816000000t" region="bottomCenter" style="s1" xml:id="subtitle197">Ты слышишь?</p>
+<p begin="9823600000t" end="9835200000t" region="bottomCenter" style="s1" xml:id="subtitle198">Хоть один...</p>
+<p begin="9840400000t" end="9854400000t" region="bottomCenter" style="s1" xml:id="subtitle199">- ...узнает то...<br/>- [шмыгает носом]</p>
+<p begin="9855200000t" end="9868400000t" region="bottomCenter" style="s1" xml:id="subtitle200">...что ты мне сейчас рассказал,</p>
+<p begin="9878800000t" end="9892800000t" region="bottomCenter" style="s1" xml:id="subtitle201">я тебя не просто уволю!</p>
+<p begin="9947200000t" end="9962800000t" region="bottomCenter" style="s1" xml:id="subtitle202">Я тебя уничтожу!</p>
+<p begin="9987600000t" end="9997600000t" region="bottomCenter" style="s1" xml:id="subtitle203">Люда.</p>
+<p begin="10004800000t" end="10023600000t" region="bottomCenter" style="s1" xml:id="subtitle204">Людмила Михайловна!</p>
+<p begin="10059600000t" end="10073200000t" region="bottomCenter" style="s1" xml:id="subtitle205">Людмила Михайловна.</p>
+<p begin="10097600000t" end="10107600000t" region="bottomCenter" style="s1" xml:id="subtitle206">Иди домой!</p>
+<p begin="10143200000t" end="10172800000t" region="bottomCenter" style="s1" xml:id="subtitle207">Ведь хотела же уволить!<br/>Пожалела зачем-то!</p>
+<p begin="10197200000t" end="10212800000t" region="bottomCenter" style="s1" xml:id="subtitle208">Может, я больничный возьму?</p>
+<p begin="10226000000t" end="10257600000t" region="bottomCenter" style="s1" xml:id="subtitle209">Вот когда я тебя покалечу,<br/>тогда и возьмешь!</p>
+<p begin="10262800000t" end="10276000000t" region="bottomCenter" style="s1" xml:id="subtitle210">Убирайся!</p>
+<p begin="10370400000t" end="10384000000t" region="bottomCenter" style="s1" xml:id="subtitle211">[открывается дверь]</p>
+<p begin="10405600000t" end="10416400000t" region="bottomCenter" style="s1" xml:id="subtitle212">[закрывается дверь]</p>
+<p begin="10647600000t" end="10660800000t" region="bottomCenter" style="s1" xml:id="subtitle213">[Олеся смеется]</p>
+<p begin="10714000000t" end="10737200000t" region="bottomCenter" style="s1" xml:id="subtitle214">Почему меня<br/>в школу олимпийского резерва не взяли?</p>
+<p begin="10746800000t" end="10767600000t" region="bottomCenter" style="s1" xml:id="subtitle215">Занимался бы делом,<br/>с нормальными людьми общался.</p>
+<p begin="10768800000t" end="10784400000t" region="bottomCenter" style="s1" xml:id="subtitle216">Не как сейчас — весь на измене, блин!</p>
+<p begin="10832800000t" end="10842400000t" region="bottomCenter" style="s1" xml:id="subtitle217">А я не нормальная?</p>
+<p begin="10845200000t" end="10867200000t" region="bottomCenter" style="s1" xml:id="subtitle218">Лесь, ну ты свой человек.<br/>Я же не о тебе сейчас!</p>
+<p begin="10891600000t" end="10902400000t" region="bottomCenter" style="s1" xml:id="subtitle219">А я о себе!</p>
+<p begin="10909200000t" end="10932800000t" region="bottomCenter" style="s1" xml:id="subtitle220">Я для тебя кто? Нормальный человек.<br/>Свой парень? Всё?</p>
+<p begin="10938800000t" end="10950400000t" region="bottomCenter" style="s1" xml:id="subtitle221">Слушай, ты лучший друг!</p>
+<p begin="11040000000t" end="11054000000t" region="bottomCenter" style="s1" xml:id="subtitle222">- Лесь, ты чё?<br/>- Ничё.</p>
+<p begin="11084800000t" end="11094000000t" region="bottomCenter" style="s1" xml:id="subtitle223">Завтра плывем?</p>
+<p begin="11096400000t" end="11112000000t" region="bottomCenter" style="s1" xml:id="subtitle224">Нет, не плывем! Пока!</p>
+<p begin="11178000000t" end="11188400000t" region="bottomCenter" style="s1" xml:id="subtitle225">Чё надо?</p>
+<p begin="11233600000t" end="11242800000t" region="bottomCenter" style="s1" xml:id="subtitle226">Гоша,</p>
+<p begin="11250800000t" end="11275600000t" region="bottomCenter" style="s1" xml:id="subtitle227">ведь помнишь,<br/>что я тебя сюда вытащил. Помнишь?</p>
+<p begin="11284800000t" end="11308800000t" region="bottomCenter" style="s1" xml:id="subtitle228">Благодаря мне тебя взяли в команду.</p>
+<p begin="11318000000t" end="11353200000t" region="bottomCenter" style="s1" xml:id="subtitle229">Ты ж мой ученик. Я тебя вывел<br/>в большой спорт. Ты должен...</p>
+<p begin="11357200000t" end="11379600000t" region="bottomCenter" style="s1" xml:id="subtitle230">- Ничё я никому не должен!<br/>- Нет, должен!</p>
+<p begin="11398800000t" end="11425200000t" region="bottomCenter" style="s1" xml:id="subtitle231">Нельзя забывать своих учителей,<br/>которые в тебя душу вложили.</p>
+<p begin="11440800000t" end="11452000000t" region="bottomCenter" style="s1" xml:id="subtitle232">Я спрашиваю! Чё надо?</p>
+<p begin="11459200000t" end="11468800000t" region="bottomCenter" style="s1" xml:id="subtitle233">Скажи ему...</p>
+<p begin="11484800000t" end="11510800000t" region="bottomCenter" style="s1" xml:id="subtitle234">...скажи ему, что мне можно доверять.<br/>Я буду молчать.</p>
+<p begin="11518800000t" end="11542800000t" region="bottomCenter" style="s1" xml:id="subtitle235">Буду молчать,<br/>только если вы все будете тоже.</p>
+<p begin="11554400000t" end="11564400000t" region="bottomCenter" style="s1" xml:id="subtitle236">Скажи ему.</p>
+<p begin="11568400000t" end="11578800000t" region="bottomCenter" style="s1" xml:id="subtitle237">Да пошел ты!</p>
+<p begin="11928000000t" end="11963200000t" region="bottomCenter" style="s1" xml:id="subtitle238">Да ладно! Не парься! Ну погуляла<br/>пару часиков, мороженого поела.</p>
+<p begin="11978800000t" end="11990000000t" region="bottomCenter" style="s1" xml:id="subtitle239">Ты чё делаешь?</p>
+<p begin="12011200000t" end="12023200000t" region="bottomCenter" style="s1" xml:id="subtitle240">Он мне в прошлый раз</p>
+<p begin="12030000000t" end="12042000000t" region="bottomCenter" style="s1" xml:id="subtitle241">каблуки отломал.</p>
+<p begin="12068000000t" end="12091600000t" region="bottomCenter" style="s1" xml:id="subtitle242">А моим плевать,<br/>хоть я голая ходить буду!</p>
+<p begin="12096800000t" end="12108400000t" region="bottomCenter" style="s1" xml:id="subtitle243">Мне б твои проблемы!</p>
+<p begin="12116400000t" end="12150400000t" region="bottomCenter" style="s1" xml:id="subtitle244">Детка... Как говорит Царева:<br/>«Не оперируй понятиями,</p>
+<p begin="12154000000t" end="12174400000t" region="bottomCenter" style="s1" xml:id="subtitle245">о которых не имеешь<br/>ни малейшего представления!»</p>
+<p begin="12186400000t" end="12195600000t" region="bottomCenter" style="s1" xml:id="subtitle246">Черт...</p>
+<p begin="12215600000t" end="12241200000t" region="bottomCenter" style="s1" xml:id="subtitle247">Настя мертвая в морге...<br/>Из головы не выходит...</p>
+<p begin="12273600000t" end="12285600000t" region="bottomCenter" style="s1" xml:id="subtitle248">Я тоже вспомнила...</p>
+<p begin="12310400000t" end="12341600000t" region="bottomCenter" style="s1" xml:id="subtitle249">Надо с Белодедовой поговорить,<br/>чтобы нюни не распускала.</p>
+<p begin="12349200000t" end="12362000000t" region="bottomCenter" style="s1" xml:id="subtitle250">А то запалит всех.</p>
+<p begin="12398000000t" end="12406800000t" region="bottomCenter" style="s1" xml:id="subtitle251">Ладно.</p>
+<p begin="12416800000t" end="12427200000t" region="bottomCenter" style="s1" xml:id="subtitle252">До завтра.</p>
+<p begin="12430400000t" end="12444800000t" region="bottomCenter" style="s1" xml:id="subtitle253">Туфли в машине оставила.</p>
+<p begin="12474000000t" end="12482800000t" region="bottomCenter" style="s1" xml:id="subtitle254">Крис,</p>
+<p begin="12491600000t" end="12512000000t" region="bottomCenter" style="s1" xml:id="subtitle255">а чё вообще случилось<br/>с училкой-то вашей?</p>
+<p begin="12522000000t" end="12531200000t" region="bottomCenter" style="s1" xml:id="subtitle256">Мужик бросил?</p>
+<p begin="12538800000t" end="12562000000t" region="bottomCenter" style="s1" xml:id="subtitle257">- Денег должна была?<br/>- Да не знаю я чё случилось...</p>
+<p begin="12564800000t" end="12574800000t" region="bottomCenter" style="s1" xml:id="subtitle258">Ну как это не знаю?</p>
+<p begin="12581200000t" end="12600800000t" region="bottomCenter" style="s1" xml:id="subtitle259">Ни с того ни с сего в окно не выходят.</p>
+<p begin="12604000000t" end="12621200000t" region="bottomCenter" style="s1" xml:id="subtitle260">- Дура она что ли?<br/>- Наверное, дура.</p>
+<p begin="12622800000t" end="12641200000t" region="bottomCenter" style="s1" xml:id="subtitle261">- Разве в морге...<br/>- Поцелуй меня!</p>
+<p begin="12689200000t" end="12702000000t" region="bottomCenter" style="s1" xml:id="subtitle262">[щелчок дверного замка]</p>
+<p begin="12904400000t" end="12914000000t" region="bottomCenter" style="s1" xml:id="subtitle263">[охает]</p>
+<p begin="12949600000t" end="12966400000t" region="bottomCenter" style="s1" xml:id="subtitle264">Пап, только не злись, пожалуйста,</p>
+<p begin="12968000000t" end="12992000000t" region="bottomCenter" style="s1" xml:id="subtitle265">нас просто<br/>в школе чуть-чуть задержали.</p>
+<p begin="13250800000t" end="13263200000t" region="bottomCenter" style="s1" xml:id="subtitle266">Наташ, что случилось?</p>
+<p begin="13274800000t" end="13290400000t" region="bottomCenter" style="s1" xml:id="subtitle267">Мама, я не вижу.</p>
+<p begin="13315600000t" end="13332000000t" region="bottomCenter" style="s1" xml:id="subtitle268">Мам, я ничего не вижу!</p>
+<p begin="13342000000t" end="13359600000t" region="bottomCenter" style="s1" xml:id="subtitle269">Миленькая моя, ну не плачь, пожалуйста.</p>
+<p begin="13360400000t" end="13374000000t" region="bottomCenter" style="s1" xml:id="subtitle270">Я тебя очень прошу, ты не плачь.</p>
+<p begin="13374800000t" end="13394800000t" region="bottomCenter" style="s1" xml:id="subtitle271">- Мы с тобой придумаем что-нибудь.<br/>- Я ничего не вижу.</p>
+<p begin="13396400000t" end="13434000000t" region="bottomCenter" style="s1" xml:id="subtitle272">Ничего страшного. Мы придумаем.<br/>Мы выкарабкаемся с тобой, девочка моя.</p>
+<p begin="13435200000t" end="13476000000t" region="bottomCenter" style="s1" xml:id="subtitle273">Мы обязательно с тобой выкарабкаемся.<br/>Ты держись! Пожалуйста, держись.</p>
+<p begin="13914800000t" end="13927600000t" region="bottomCenter" style="s1" xml:id="subtitle274">[часто и тяжело дышит]</p>
+<p begin="14381200000t" end="14391200000t" region="bottomCenter" style="s1" xml:id="subtitle275">Приятного...</p>
+<p begin="14402800000t" end="14413200000t" region="bottomCenter" style="s1" xml:id="subtitle276">...аппетита.</p>
+<p begin="14423600000t" end="14436000000t" region="bottomCenter" style="s1" xml:id="subtitle277">Спасибо.</p>
+<p begin="14439200000t" end="14450000000t" region="bottomCenter" style="s1" xml:id="subtitle278">Чё...</p>
+<p begin="14461600000t" end="14473600000t" region="bottomCenter" style="s1" xml:id="subtitle279">...мать дома не кормит?</p>
+<p begin="14558800000t" end="14569200000t" region="bottomCenter" style="s1" xml:id="subtitle280">Я один живу.</p>
+<p begin="14606000000t" end="14620400000t" region="bottomCenter" style="s1" xml:id="subtitle281">С кем ругался возле школы?</p>
+<p begin="14654800000t" end="14664800000t" region="bottomCenter" style="s1" xml:id="subtitle282">Когда?</p>
+<p begin="14677200000t" end="14687200000t" region="bottomCenter" style="s1" xml:id="subtitle283">Сегодня...</p>
+<p begin="14700800000t" end="14710400000t" region="bottomCenter" style="s1" xml:id="subtitle284">...за оцеплением.</p>
+<p begin="14731600000t" end="14745600000t" region="bottomCenter" style="s1" xml:id="subtitle285">Господин такой импозантный,</p>
+<p begin="14748400000t" end="14768000000t" region="bottomCenter" style="s1" xml:id="subtitle286">в черном пиджаке... Не отец твой? Нет?</p>
+<p begin="14796000000t" end="14817200000t" region="bottomCenter" style="s1" xml:id="subtitle287">Нет. Спрашивал, что случилось.</p>
+<p begin="14825600000t" end="14852400000t" region="bottomCenter" style="s1" xml:id="subtitle288">А мне как-то не до этого было<br/>в этот момент и...</p>
+<p begin="14862800000t" end="14879200000t" region="bottomCenter" style="s1" xml:id="subtitle289">...может, случайно нагрубил.</p>
+<p begin="14964000000t" end="14985600000t" region="bottomCenter" style="s1" xml:id="subtitle290">Он приятель<br/>нашего директора покойного.</p>
+<p begin="15002000000t" end="15019200000t" region="bottomCenter" style="s1" xml:id="subtitle291">Угу. Имя-то у него есть?</p>
+<p begin="15048800000t" end="15065200000t" region="bottomCenter" style="s1" xml:id="subtitle292">Я даже не знаю,<br/>несколько раз его видел.</p>
+<p begin="15106400000t" end="15120400000t" region="bottomCenter" style="s1" xml:id="subtitle293">- А можно вопрос?<br/>- Валяй.</p>
+<p begin="15162400000t" end="15170800000t" region="bottomCenter" style="s1" xml:id="subtitle294">У вас инсульт был?</p>
+<p begin="15225600000t" end="15241200000t" region="bottomCenter" style="s1" xml:id="subtitle295">С чего это ты взял?</p>
+<p begin="15251600000t" end="15260400000t" region="bottomCenter" style="s1" xml:id="subtitle296">Ну, я смотрю...</p>
+<p begin="15272400000t" end="15281600000t" region="bottomCenter" style="s1" xml:id="subtitle297">...рука немножко...</p>
+<p begin="15346000000t" end="15358400000t" region="bottomCenter" style="s1" xml:id="subtitle298">Это у вас так принято?</p>
+<p begin="15363200000t" end="15374400000t" region="bottomCenter" style="s1" xml:id="subtitle299">В лоб не стесняясь.</p>
+<p begin="15392000000t" end="15405600000t" region="bottomCenter" style="s1" xml:id="subtitle300">А чё вы стесняетесь?</p>
+<p begin="15412400000t" end="15422400000t" region="bottomCenter" style="s1" xml:id="subtitle301">Вы ж не инвалид?</p>
+<p begin="15432400000t" end="15444400000t" region="bottomCenter" style="s1" xml:id="subtitle302">Ходите на двух ногах.</p>
+<p begin="15454000000t" end="15480800000t" region="bottomCenter" style="s1" xml:id="subtitle303">- Слюной не истекаете.<br/>- Это точно.</p>
+<p begin="15519600000t" end="15530400000t" region="bottomCenter" style="s1" xml:id="subtitle304">Ну ладно, ладно.</p>
+<p begin="15537600000t" end="15560400000t" region="bottomCenter" style="s1" xml:id="subtitle305">Ты свои сеансы психотерапии...</p>
+<p begin="15571200000t" end="15586400000t" region="bottomCenter" style="s1" xml:id="subtitle306">...для одноклассников оставь. Угу?</p>
+<p begin="15610400000t" end="15627200000t" region="bottomCenter" style="s1" xml:id="subtitle307">Кстати, дружок твой как? Отошел?</p>
+<p begin="15633600000t" end="15642800000t" region="bottomCenter" style="s1" xml:id="subtitle308">Какой?</p>
+<p begin="15644000000t" end="15665600000t" region="bottomCenter" style="s1" xml:id="subtitle309">Ну, такой здоровый спортсмен. Заикался.</p>
+<p begin="15693200000t" end="15702800000t" region="bottomCenter" style="s1" xml:id="subtitle310">[усмехается]</p>
+<p begin="15716000000t" end="15726000000t" region="bottomCenter" style="s1" xml:id="subtitle311">Ну как дружок...</p>
+<p begin="15795600000t" end="15807600000t" region="bottomCenter" style="s1" xml:id="subtitle312">Смешно, да.</p>
+<p begin="15811600000t" end="15826000000t" region="bottomCenter" style="s1" xml:id="subtitle313">- Офигенно смешно.<br/>- [неразборчиво]</p>
+<p begin="15826800000t" end="15836000000t" region="bottomCenter" style="s1" xml:id="subtitle314">Приятного!</p>
+<p begin="15836800000t" end="15846400000t" region="bottomCenter" style="s1" xml:id="subtitle315">Приятного!</p>
+<p begin="16137200000t" end="16157600000t" region="bottomCenter" style="s1" xml:id="subtitle316">Есть немножко.<br/>Вот смотри, какая красавица.</p>
+<p begin="16184800000t" end="16200400000t" region="bottomCenter" style="s1" xml:id="subtitle317">- Помочь?<br/>- Чего?</p>
+<p begin="16202800000t" end="16213600000t" region="bottomCenter" style="s1" xml:id="subtitle318">[все громко охают и смеются]</p>
+<p begin="16266000000t" end="16303600000t" region="bottomCenter" style="s1" xml:id="subtitle319">Британские ученые доказали,<br/>жизнь без сисек существует.</p>
+<p begin="16325600000t" end="16334400000t" region="bottomCenter" style="s1" xml:id="subtitle320">Вот уроды!</p>
+<p begin="16341200000t" end="16362400000t" region="bottomCenter" style="s1" xml:id="subtitle321">Шорина, прости.<br/>Только с тебя доклад. Да?</p>
+<p begin="16368000000t" end="16392800000t" region="bottomCenter" style="s1" xml:id="subtitle322">Как прожить в России без сисек! <span style="s1_1">Yes.</span></p>
+<p begin="16470400000t" end="16500400000t" region="bottomCenter" style="s1" xml:id="subtitle323">Что вы делаете?<br/>Драться хотите — идите на улицу.</p>
+<p begin="16503200000t" end="16550000000t" region="bottomCenter" style="s1" xml:id="subtitle324">Я сейчас к директору пойду.<br/>Я к директору пойду сейчас же.</p>
+<p begin="16560400000t" end="16569200000t" region="bottomCenter" style="s1" xml:id="subtitle325">[Марат] Хорош.</p>
+<p begin="16574000000t" end="16585200000t" region="bottomCenter" style="s1" xml:id="subtitle326">Да всё!</p>
+<p begin="16709200000t" end="16721200000t" region="bottomCenter" style="s1" xml:id="subtitle327">- Давай, давай!<br/>- Всё.</p>
+<p begin="16727600000t" end="16743200000t" region="bottomCenter" style="s1" xml:id="subtitle328">- [гремит посуда]<br/>- Стул-то убери!</p>
+<p begin="16771200000t" end="16792000000t" region="bottomCenter" style="s1" xml:id="subtitle329">[тяжело дышит]</p>
+<p begin="16860400000t" end="16870400000t" region="bottomCenter" style="s1" xml:id="subtitle330">Ну и чё смотрим?</p>
+<p begin="16913600000t" end="16924000000t" region="bottomCenter" style="s1" xml:id="subtitle331">Шоу закончилось!</p>
+<p begin="16949600000t" end="16961600000t" region="bottomCenter" style="s1" xml:id="subtitle332">Приятного аппетита всем!</p>
+<p begin="16994000000t" end="17007600000t" region="bottomCenter" style="s1" xml:id="subtitle333">[говорят неразборчиво]</p>
+<p begin="17039200000t" end="17050800000t" region="bottomCenter" style="s1" xml:id="subtitle334">Нравится тебе вот это всё?</p>
+<p begin="17077200000t" end="17090000000t" region="bottomCenter" style="s1" xml:id="subtitle335">А чё ты не сопротивляешься?</p>
+<p begin="17114800000t" end="17124400000t" region="bottomCenter" style="s1" xml:id="subtitle336">Не можешь?</p>
+<p begin="17132800000t" end="17148000000t" region="bottomCenter" style="s1" xml:id="subtitle337">Тогда ори, зови на помощь!</p>
+<p begin="17157200000t" end="17165600000t" region="bottomCenter" style="s1" xml:id="subtitle338">Понятно?</p>
+<p begin="17179600000t" end="17189600000t" region="bottomCenter" style="s1" xml:id="subtitle339">Да пошел ты!</p>
+<p begin="17278400000t" end="17303200000t" region="bottomCenter" style="s1" xml:id="subtitle340">- [Миша] Классная фигура у тебя.<br/>- [все] О-о!</p>
+<p begin="17484800000t" end="17508400000t" region="bottomCenter" style="s1" xml:id="subtitle341">Чё, крутой?<br/>Решил перед всей школой опозорить, да?</p>
+<p begin="17548800000t" end="17564800000t" region="bottomCenter" style="s1" xml:id="subtitle342">[тяжело дышит]</p>
+<p begin="17656000000t" end="17672000000t" region="bottomCenter" style="s1" xml:id="subtitle343">Когда закрываешь противнику глаза,</p>
+<p begin="17678800000t" end="17694800000t" region="bottomCenter" style="s1" xml:id="subtitle344">ты лишаешь его не только зрения,</p>
+<p begin="17702000000t" end="17712400000t" region="bottomCenter" style="s1" xml:id="subtitle345">но и страха.</p>
+<p begin="17783600000t" end="17799200000t" region="bottomCenter" style="s1" xml:id="subtitle346">Британские ученые доказали.</p>
+<p begin="18007600000t" end="18032800000t" region="bottomCenter" style="s1" xml:id="subtitle347">[Крюков] Короче, навалял ты ему,<br/>и подружились.</p>
+<p begin="18034800000t" end="18049200000t" region="bottomCenter" style="s1" xml:id="subtitle348">Да. Просто некоторые люди...</p>
+<p begin="18062000000t" end="18085200000t" region="bottomCenter" style="s1" xml:id="subtitle349">...понимают только язык силы.</p>
+<p begin="18109600000t" end="18121200000t" region="bottomCenter" style="s1" xml:id="subtitle350">Ну, с девчонкой,</p>
+<p begin="18128400000t" end="18144400000t" region="bottomCenter" style="s1" xml:id="subtitle351">опять же, благородно получилось.</p>
+<p begin="18171200000t" end="18188000000t" region="bottomCenter" style="s1" xml:id="subtitle352">Влюбилась, наверное, сразу в тебя.</p>
+<p begin="18194000000t" end="18202400000t" region="bottomCenter" style="s1" xml:id="subtitle353">А?</p>
+<p begin="18284000000t" end="18294000000t" region="bottomCenter" style="s1" xml:id="subtitle354">[Анна] Игорь...</p>
+<p begin="18304800000t" end="18314000000t" region="bottomCenter" style="s1" xml:id="subtitle355">Привет.</p>
+<p begin="18338000000t" end="18349200000t" region="bottomCenter" style="s1" xml:id="subtitle356">Где теперь живешь?</p>
+<p begin="18393600000t" end="18403600000t" region="bottomCenter" style="s1" xml:id="subtitle357">Здесь.</p>
+<p begin="18428000000t" end="18437600000t" region="bottomCenter" style="s1" xml:id="subtitle358">Слушай, Анют,</p>
+<p begin="18454000000t" end="18483200000t" region="bottomCenter" style="s1" xml:id="subtitle359">чет показалось мне,<br/>или мы расстались вроде. Нет?</p>
+<p begin="18501600000t" end="18530000000t" region="bottomCenter" style="s1" xml:id="subtitle360">Мне просто доложили про это дело,<br/>про самоубийство, и я подумала...</p>
+<p begin="18531200000t" end="18540000000t" region="bottomCenter" style="s1" xml:id="subtitle361">Все нормально.</p>
+<p begin="18570400000t" end="18592000000t" region="bottomCenter" style="s1" xml:id="subtitle362">Игорь, если бы я знала заранее,<br/>попросила следователя,</p>
+<p begin="18593600000t" end="18614000000t" region="bottomCenter" style="s1" xml:id="subtitle363">чтобы он занимался этим делом<br/>и тебя не тревожил.</p>
+<p begin="18615200000t" end="18632400000t" region="bottomCenter" style="s1" xml:id="subtitle364">Это его право — напрячь участкового.</p>
+<p begin="18633200000t" end="18652800000t" region="bottomCenter" style="s1" xml:id="subtitle365">Если понадобится помощь,<br/>я тебе сообщу.</p>
+<p begin="18685600000t" end="18706400000t" region="bottomCenter" style="s1" xml:id="subtitle366">Ну, а по делу все прозрачно, по-моему.</p>
+<p begin="18707600000t" end="18732400000t" region="bottomCenter" style="s1" xml:id="subtitle367">Смерть наступила<br/>в результате падения с высоты.</p>
+<p begin="18743600000t" end="18770000000t" region="bottomCenter" style="s1" xml:id="subtitle368">Так что отказ о возбуждении уголовного<br/>дела я вскоре подпишу,</p>
+<p begin="18770800000t" end="18790000000t" region="bottomCenter" style="s1" xml:id="subtitle369">если ты за этим приехала.<br/>Так что будь спокойна!</p>
+<p begin="18791200000t" end="18815200000t" region="bottomCenter" style="s1" xml:id="subtitle370">Игорь, я прекрасно знаю,<br/>в каком ты состоянии.</p>
+<p begin="18832800000t" end="18845600000t" region="bottomCenter" style="s1" xml:id="subtitle371">В каком я состоянии?</p>
+<p begin="18902800000t" end="18921600000t" region="bottomCenter" style="s1" xml:id="subtitle372">Или ты думаешь из-за того,<br/>что моя жена погибла,</p>
+<p begin="18922400000t" end="18943200000t" region="bottomCenter" style="s1" xml:id="subtitle373">я теперь от каждого самоубийцы<br/>буду в истерику впадать?</p>
+<p begin="18944000000t" end="18953200000t" region="bottomCenter" style="s1" xml:id="subtitle374">Нет. Ты ошибаешься!</p>
+<p begin="18970000000t" end="18978800000t" region="bottomCenter" style="s1" xml:id="subtitle375">А вот если...</p>
+<p begin="18990800000t" end="19011200000t" region="bottomCenter" style="s1" xml:id="subtitle376">...та, из-за которой моя жена<br/>оставила меня вдовцом,</p>
+<p begin="19012000000t" end="19030400000t" region="bottomCenter" style="s1" xml:id="subtitle377">будет приезжать<br/>и утешать меня, могу впасть.</p>
+<p begin="19038000000t" end="19048800000t" region="bottomCenter" style="s1" xml:id="subtitle378">Та, которая что?</p>
+<p begin="19138000000t" end="19147600000t" region="bottomCenter" style="s1" xml:id="subtitle379">Иди ко мне.</p>
+<p begin="19249200000t" end="19258000000t" region="bottomCenter" style="s1" xml:id="subtitle380">Игорь.</p>
+<p begin="19259200000t" end="19283600000t" region="bottomCenter" style="s1" xml:id="subtitle381">Что? Что, Игорь?<br/>Сколько я терпел? А?</p>
+<p begin="19300800000t" end="19311200000t" region="bottomCenter" style="s1" xml:id="subtitle382">Щас, погоди, кольцо.</p>
+<p begin="19312000000t" end="19343200000t" region="bottomCenter" style="s1" xml:id="subtitle383">Что? Какое кольцо? Что за бред?<br/>Что ты делаешь? Оставь!</p>
+<p begin="19344400000t" end="19352800000t" region="bottomCenter" style="s1" xml:id="subtitle384">Щас!</p>
+<p begin="19353600000t" end="19363600000t" region="bottomCenter" style="s1" xml:id="subtitle385">Щас, щас.</p>
+<p begin="19384000000t" end="19397200000t" region="bottomCenter" style="s1" xml:id="subtitle386">Иди сюда!</p>
+<p begin="19398400000t" end="19407200000t" region="bottomCenter" style="s1" xml:id="subtitle387">Юля!</p>
+<p begin="19408000000t" end="19420400000t" region="bottomCenter" style="s1" xml:id="subtitle388">- Что?<br/>- Жена твоя!</p>
+<p begin="19612400000t" end="19626000000t" region="bottomCenter" style="s1" xml:id="subtitle389">Может, так даже лучше.</p>
+<p begin="20032000000t" end="20058800000t" region="bottomCenter" style="s1" xml:id="subtitle390">И в следственных комитетах<br/>бывают внебрачные связи.</p>
+<p begin="20059600000t" end="20082400000t" region="bottomCenter" style="s1" xml:id="subtitle391">Так бывает, встретишь<br/>в соседнем кабинете...</p>
+<p begin="20084000000t" end="20097600000t" region="bottomCenter" style="s1" xml:id="subtitle392">...Аньку.</p>
+<p begin="20102400000t" end="20125600000t" region="bottomCenter" style="s1" xml:id="subtitle393">Первую любовь. Всё – фух!<br/>Крышу снесло и...</p>
+<p begin="20140000000t" end="20156800000t" region="bottomCenter" style="s1" xml:id="subtitle394">А потом жена,<br/>та, которая из окна вышла,</p>
+<p begin="20159200000t" end="20178400000t" region="bottomCenter" style="s1" xml:id="subtitle395">застукает тебя и вот... в этой машине.</p>
+<p begin="20199200000t" end="20210000000t" region="bottomCenter" style="s1" xml:id="subtitle396">Или не в этой?</p>
+<p begin="20224000000t" end="20237200000t" region="bottomCenter" style="s1" xml:id="subtitle397">Показалось.</p>
+<p begin="20243200000t" end="20264000000t" region="bottomCenter" style="s1" xml:id="subtitle398">- Ну ты псих, а...<br/>- Псих. Да.</p>
+<p begin="20277200000t" end="20294000000t" region="bottomCenter" style="s1" xml:id="subtitle399">Доктор тоже самое сказал.<br/>Псих, говорит.</p>
+<p begin="20295200000t" end="20316800000t" region="bottomCenter" style="s1" xml:id="subtitle400">Надо таких из органов<br/>ссаными тряпками гнать!</p>
+<p begin="20320400000t" end="20355600000t" region="bottomCenter" style="s1" xml:id="subtitle401">А еще знаешь, совпадение какое?<br/>Его, значит, уволили...</p>
+<p begin="20360400000t" end="20395600000t" region="bottomCenter" style="s1" xml:id="subtitle402">...и место начальника отделения,<br/>которым он занимался, освободилось.</p>
+<p begin="20396800000t" end="20418000000t" region="bottomCenter" style="s1" xml:id="subtitle403">Аньку, любовницу,<br/>в звании повысили и...</p>
+<p begin="20426800000t" end="20445600000t" region="bottomCenter" style="s1" xml:id="subtitle404">...на это место. Вот такое вот бывает.</p>
+<p begin="20448400000t" end="20465200000t" region="bottomCenter" style="s1" xml:id="subtitle405">А не она ли его потом<br/>участковым пристроила,</p>
+<p begin="20466000000t" end="20480800000t" region="bottomCenter" style="s1" xml:id="subtitle406">когда его комиссовать собрались?</p>
+<p begin="20482400000t" end="20492400000t" region="bottomCenter" style="s1" xml:id="subtitle407">Она.</p>
+<p begin="20505200000t" end="20521200000t" region="bottomCenter" style="s1" xml:id="subtitle408">Только ее никто об этом не просил.</p>
+<p begin="20600800000t" end="20616000000t" region="bottomCenter" style="s1" xml:id="subtitle409">Долго ты там в сарае жить будешь?</p>
+<p begin="20628800000t" end="20638800000t" region="bottomCenter" style="s1" xml:id="subtitle410">Не укачивает?</p>
+<p begin="20769200000t" end="20787600000t" region="bottomCenter" style="s1" xml:id="subtitle411">- [дверь захлопывается]<br/>- [заводится двигатель]</p>
+<p begin="21477600000t" end="21492800000t" region="bottomCenter" style="s1" xml:id="subtitle412">[плачет]</p>
+<p begin="21746400000t" end="21757200000t" region="bottomCenter" style="s1" xml:id="subtitle413">Чё скисли-то?</p>
+<p begin="21780000000t" end="21795200000t" region="bottomCenter" style="s1" xml:id="subtitle414">- [удар]<br/>- [Миша] А?</p>
+<p begin="21810400000t" end="21826800000t" region="bottomCenter" style="s1" xml:id="subtitle415">Депрессняк нам сейчас вообще не нужен!</p>
+<p begin="21834400000t" end="21848400000t" region="bottomCenter" style="s1" xml:id="subtitle416">А что нам сейчас нужно?</p>
+<p begin="21874000000t" end="21884800000t" region="bottomCenter" style="s1" xml:id="subtitle417">Просто расслабиться.</p>
+<p begin="21977600000t" end="21998400000t" region="bottomCenter" style="s1" xml:id="subtitle418">Я предлагаю пойти<br/>и порубиться в «Спарту»!</p>
+<p begin="22038000000t" end="22057200000t" region="bottomCenter" style="s1" xml:id="subtitle419">- Без меня!<br/>- А чё так?</p>
+<p begin="22071600000t" end="22082000000t" region="bottomCenter" style="s1" xml:id="subtitle420">[Наташа] Что?</p>
+<p begin="22100400000t" end="22114000000t" region="bottomCenter" style="s1" xml:id="subtitle421">Порубиться в «Спарту»?</p>
+<p begin="22136000000t" end="22149200000t" region="bottomCenter" style="s1" xml:id="subtitle422">Да как вы можете?</p>
+<p begin="22165200000t" end="22185200000t" region="bottomCenter" style="s1" xml:id="subtitle423">Как вы все это проглотили?</p>
+<p begin="22191200000t" end="22201600000t" region="bottomCenter" style="s1" xml:id="subtitle424">Вы что?</p>
+<p begin="22220800000t" end="22231600000t" region="bottomCenter" style="s1" xml:id="subtitle425">Вы живые вообще?</p>
+<p begin="22246800000t" end="22266000000t" region="bottomCenter" style="s1" xml:id="subtitle426">Настя в морге мертвая лежит...</p>
+<p begin="22290000000t" end="22322800000t" region="bottomCenter" style="s1" xml:id="subtitle427">- ...а у вас депрессняк!<br/>- [Миша] Наташ!</p>
+<p begin="22331600000t" end="22344000000t" region="bottomCenter" style="s1" xml:id="subtitle428">Наташ, успокойся!</p>
+<p begin="22360000000t" end="22377600000t" region="bottomCenter" style="s1" xml:id="subtitle429">Ну, ты же сама знаешь, станет легче.</p>
+<p begin="22386000000t" end="22395200000t" region="bottomCenter" style="s1" xml:id="subtitle430">Наташ!</p>
+<p begin="22468800000t" end="22482800000t" region="bottomCenter" style="s1" xml:id="subtitle431">Ты, Барк, не наигрался еще, нет?</p>
+<p begin="22510800000t" end="22520000000t" region="bottomCenter" style="s1" xml:id="subtitle432">Тебе мало?</p>
+<p begin="22560800000t" end="22571200000t" region="bottomCenter" style="s1" xml:id="subtitle433">А тебе достаточно?</p>
+<p begin="22664400000t" end="22677600000t" region="bottomCenter" style="s1" xml:id="subtitle434">Наташ, пойдем!</p>
+<p begin="22684800000t" end="22694000000t" region="bottomCenter" style="s1" xml:id="subtitle435">Наташ!</p>
+<p begin="22709600000t" end="22718400000t" region="bottomCenter" style="s1" xml:id="subtitle436">Пойдем.</p>
+<p begin="22733600000t" end="22743200000t" region="bottomCenter" style="s1" xml:id="subtitle437">Наташ.</p>
+<p begin="22752800000t" end="22765200000t" region="bottomCenter" style="s1" xml:id="subtitle438">Там легче будет.</p>
+<p begin="22773600000t" end="22786000000t" region="bottomCenter" style="s1" xml:id="subtitle439">Ну ты же сама знаешь!</p>
+<p begin="22796400000t" end="22805600000t" region="bottomCenter" style="s1" xml:id="subtitle440">Пойдем!</p>
+<p begin="22873200000t" end="22884000000t" region="bottomCenter" style="s1" xml:id="subtitle441">Пошли!</p>
+<p begin="22899200000t" end="22908000000t" region="bottomCenter" style="s1" xml:id="subtitle442">[открывается дверь]</p>
+<p begin="23091600000t" end="23100800000t" region="bottomCenter" style="s1" xml:id="subtitle443">[закрывается дверь]</p>
+<p begin="23189200000t" end="23214400000t" region="bottomCenter" style="s1" xml:id="subtitle444">Долго еще расследовать будете?<br/>Тянут кота за хвост!</p>
+<p begin="23215600000t" end="23251200000t" region="bottomCenter" style="s1" xml:id="subtitle445">Вызвали меня во время рабочего дня!<br/>Чё тут расследовать-то?</p>
+<p begin="23260800000t" end="23284800000t" region="bottomCenter" style="s1" xml:id="subtitle446">Никуда ваши школьные коридоры<br/>от вас не денутся.</p>
+<p begin="23294400000t" end="23314800000t" region="bottomCenter" style="s1" xml:id="subtitle447">- Вы Истоминой квартиру сдавали?<br/>- Ну, я.</p>
+<p begin="23321600000t" end="23344800000t" region="bottomCenter" style="s1" xml:id="subtitle448">- Анисимова ваша фамилия?<br/>- Не! Наталья Орейро!</p>
+<p begin="23346400000t" end="23366800000t" region="bottomCenter" style="s1" xml:id="subtitle449">Анисимова — псевдоним!</p>
+<p begin="23372400000t" end="23382400000t" region="bottomCenter" style="s1" xml:id="subtitle450">Смешно!</p>
+<p begin="23389200000t" end="23410800000t" region="bottomCenter" style="s1" xml:id="subtitle451">Сёма, что у тебя?</p>
+<p begin="23423600000t" end="23457200000t" region="bottomCenter" style="s1" xml:id="subtitle452">Да вот дневник нашли, вроде ее.<br/>Но вообще как-то странно.</p>
+<p begin="23463200000t" end="23474000000t" region="bottomCenter" style="s1" xml:id="subtitle453">В смысле?</p>
+<p begin="23479200000t" end="23499600000t" region="bottomCenter" style="s1" xml:id="subtitle454">Ну, во-первых,<br/>тут половина листов вырвана.</p>
+<p begin="23510000000t" end="23520400000t" region="bottomCenter" style="s1" xml:id="subtitle455">А во-вторых...</p>
+<p begin="23534800000t" end="23555600000t" region="bottomCenter" style="s1" xml:id="subtitle456">Слушай! Мне казалось,<br/>такие вещи обычно люди прячут,</p>
+<p begin="23556400000t" end="23578400000t" region="bottomCenter" style="s1" xml:id="subtitle457">а тут на самом видном месте. Не знаю.</p>
+<p begin="23594400000t" end="23618800000t" region="bottomCenter" style="s1" xml:id="subtitle458">- Дневник давай в лабораторию.<br/>- Ну, естественно.</p>
+<p begin="23620000000t" end="23631600000t" region="bottomCenter" style="s1" xml:id="subtitle459">Возьму почитать потом.</p>
+<p begin="23706400000t" end="23717600000t" region="bottomCenter" style="s1" xml:id="subtitle460">В чем дело, Крюков?</p>
+<p begin="23722000000t" end="23738400000t" region="bottomCenter" style="s1" xml:id="subtitle461">Ты вроде сказал, отказ будешь писать?</p>
+<p begin="23758000000t" end="23788000000t" region="bottomCenter" style="s1" xml:id="subtitle462">Ой, здрасте, Анна Анатольевна!</p>
+<p begin="23801600000t" end="23815200000t" region="bottomCenter" style="s1" xml:id="subtitle463">На минуточку можно вас?</p>
+<p begin="23861200000t" end="23885600000t" region="bottomCenter" style="s1" xml:id="subtitle464">Ты хочешь покончить<br/>жизнь самоубийством.</p>
+<p begin="23886800000t" end="23896000000t" region="bottomCenter" style="s1" xml:id="subtitle465">Типун тебе на язык.</p>
+<p begin="23899600000t" end="23924800000t" region="bottomCenter" style="s1" xml:id="subtitle466">Что ты предпочтешь?<br/>Сигануть отсюда с шестого этажа,</p>
+<p begin="23926800000t" end="23950000000t" region="bottomCenter" style="s1" xml:id="subtitle467">где 100% от тебя<br/>мокрого места не останется?</p>
+<p begin="23954800000t" end="23983200000t" region="bottomCenter" style="s1" xml:id="subtitle468">Да какой? В полете еще<br/>сердце разорвется от страха.</p>
+<p begin="23998800000t" end="24008400000t" region="bottomCenter" style="s1" xml:id="subtitle469">Или третий этаж...</p>
+<p begin="24016800000t" end="24038000000t" region="bottomCenter" style="s1" xml:id="subtitle470">...школы на глазах<br/>у изумленных учеников.</p>
+<p begin="24038800000t" end="24065200000t" region="bottomCenter" style="s1" xml:id="subtitle471">И, кстати, никакой гарантии,<br/>что ты свернешь шею.</p>
+<p begin="24066000000t" end="24088400000t" region="bottomCenter" style="s1" xml:id="subtitle472">Чистая случайность,<br/>как случай с Истоминой.</p>
+<p begin="24093600000t" end="24123200000t" region="bottomCenter" style="s1" xml:id="subtitle473">Ты мне вчера обещал не впадать<br/>в истерику из-за каждого самоубийцы.</p>
+<p begin="24126800000t" end="24148000000t" region="bottomCenter" style="s1" xml:id="subtitle474">- Что-то поменялось?<br/>- [вибрирует сотовый телефон]</p>
+<p begin="24164400000t" end="24188400000t" region="bottomCenter" style="s1" xml:id="subtitle475">Крюков, закрывай это дело,<br/>иначе я его сама закрою!</p>
+<p begin="24189600000t" end="24198400000t" region="bottomCenter" style="s1" xml:id="subtitle476">Прости.</p>
+<p begin="24208400000t" end="24218800000t" region="bottomCenter" style="s1" xml:id="subtitle477">Да.</p>
+<p begin="24237200000t" end="24250400000t" region="bottomCenter" style="s1" xml:id="subtitle478">Здесь мы! Иди сюда!</p>
+<p begin="24307200000t" end="24317200000t" region="bottomCenter" style="s1" xml:id="subtitle479">Здрасте!</p>
+<p begin="24332400000t" end="24349600000t" region="bottomCenter" style="s1" xml:id="subtitle480">Привет. Откуда такая?</p>
+<p begin="24358800000t" end="24369200000t" region="bottomCenter" style="s1" xml:id="subtitle481">Из морга.</p>
+<p begin="24370400000t" end="24398000000t" region="bottomCenter" style="s1" xml:id="subtitle482">[отдаленный шум строительных работ]</p>
+<p begin="24446400000t" end="24480400000t" region="bottomCenter" style="s1" xml:id="subtitle483">В общем, на теле покойной<br/>обнаружены следы избиения.</p>
+<p begin="24492000000t" end="24514800000t" region="bottomCenter" style="s1" xml:id="subtitle484">Сломанное ребро и не зажившая гематома.</p>
+<p begin="24522000000t" end="24556000000t" region="bottomCenter" style="s1" xml:id="subtitle485">- Срок?<br/>- Около месяца, точнее не скажу.</p>
+<p begin="24580400000t" end="24604400000t" region="bottomCenter" style="s1" xml:id="subtitle486">Ну, я не знаю! Может, спортивная<br/>какая-то травма? Авария?</p>
+<p begin="24616000000t" end="24634400000t" region="bottomCenter" style="s1" xml:id="subtitle487">Только если она боксом занималась!</p>
+<p begin="24641600000t" end="24680000000t" region="bottomCenter" style="s1" xml:id="subtitle488">Ух ты! Неужели 110-я.<br/>Доведение до самоубийства</p>
+<p begin="24689200000t" end="24718800000t" region="bottomCenter" style="s1" xml:id="subtitle489">Госпожа государственный<br/>советник юстиции третьего класса,</p>
+<p begin="24720400000t" end="24751600000t" region="bottomCenter" style="s1" xml:id="subtitle490">прошу разрешения продолжить следствие!</p>
+<p begin="24768800000t" end="24787200000t" region="bottomCenter" style="s1" xml:id="subtitle491">В честь того, что сегодня вы</p>
+<p begin="24792400000t" end="24805600000t" region="bottomCenter" style="s1" xml:id="subtitle492">просто великолепны!</p>
+<p begin="24835200000t" end="24850800000t" region="bottomCenter" style="s1" xml:id="subtitle493">У вас две недели.</p>
+<p begin="24869600000t" end="24885200000t" region="bottomCenter" style="s1" xml:id="subtitle494">А на тему моей неотразимости —</p>
+<p begin="24900000000t" end="24933200000t" region="bottomCenter" style="s1" xml:id="subtitle495">у Маши сегодня концерт отчетный<br/>в консерватории, не кот нассал.</p>
+<p begin="24941200000t" end="24955200000t" region="bottomCenter" style="s1" xml:id="subtitle496">Ты уж извини, что не в кедах.</p>
+<p begin="24962000000t" end="24979600000t" region="bottomCenter" style="s1" xml:id="subtitle497">- Извинил.<br/>- Спасибо.</p>
+<p begin="25038000000t" end="25053600000t" region="bottomCenter" style="s1" xml:id="subtitle498">Ну и вкусы у тебя, Крюков!</p>
+<p begin="25055200000t" end="25086000000t" region="bottomCenter" style="s1" xml:id="subtitle499">Не могу поверить,<br/>что вы встречались с этой злюкой.</p>
+<p begin="25122800000t" end="25136400000t" region="bottomCenter" style="s1" xml:id="subtitle500">Ну ты же вечно замужем.</p>
+<p begin="25164400000t" end="25175200000t" region="bottomCenter" style="s1" xml:id="subtitle501">Сём!</p>
+<p begin="25185200000t" end="25195200000t" region="bottomCenter" style="s1" xml:id="subtitle502">Ну что?</p>
+<p begin="25206800000t" end="25227600000t" region="bottomCenter" style="s1" xml:id="subtitle503">Ну что? Что? Почти закончили.</p>
+<p begin="25233200000t" end="25250400000t" region="bottomCenter" style="s1" xml:id="subtitle504">Может, хоть записочка предсмертная?</p>
+<p begin="25259200000t" end="25269600000t" region="bottomCenter" style="s1" xml:id="subtitle505">Не-а!</p>
+<p begin="25291600000t" end="25301600000t" region="bottomCenter" style="s1" xml:id="subtitle506">Жаль.</p>
+<p begin="25306000000t" end="25322800000t" region="bottomCenter" style="s1" xml:id="subtitle507">[говорят неразборчиво]</p>
+<p begin="25340400000t" end="25358800000t" region="bottomCenter" style="s1" xml:id="subtitle508">[Людмила] Я помню,<br/>как Настя им хвасталась.</p>
+<p begin="25368400000t" end="25394800000t" region="bottomCenter" style="s1" xml:id="subtitle509">Ребята устроили ей<br/>день рождения! Представляете?</p>
+<p begin="25399200000t" end="25414800000t" region="bottomCenter" style="s1" xml:id="subtitle510">Решили так вот поддержать.</p>
+<p begin="25444400000t" end="25464000000t" region="bottomCenter" style="s1" xml:id="subtitle511">[Крюков] Так у нее же вроде<br/>в июле день рождения?</p>
+<p begin="25465600000t" end="25480400000t" region="bottomCenter" style="s1" xml:id="subtitle512">В том-то и дело. Понимаете?</p>
+<p begin="25484000000t" end="25503200000t" region="bottomCenter" style="s1" xml:id="subtitle513">Они решили, что им нужен праздник.</p>
+<p begin="25508800000t" end="25526800000t" region="bottomCenter" style="s1" xml:id="subtitle514">Придумали специальную вечеринку.</p>
+<p begin="25534400000t" end="25572800000t" region="bottomCenter" style="s1" xml:id="subtitle515">Родители Кристины Суворовой разрешили<br/>использовать свой загородный дом.</p>
+<p begin="25579600000t" end="25593200000t" region="bottomCenter" style="s1" xml:id="subtitle516">Ребята сделали капустник.</p>
+<p begin="25598000000t" end="25630400000t" region="bottomCenter" style="s1" xml:id="subtitle517">Разучивали на английском номера.<br/>Сами переодевались.</p>
+<p begin="25643600000t" end="25678000000t" region="bottomCenter" style="s1" xml:id="subtitle518">Настя тогда плакала от счастья,</p>
+<p begin="25681200000t" end="25700000000t" region="bottomCenter" style="s1" xml:id="subtitle519">а мы все ей ужасно завидовали.</p>
+<p begin="25729200000t" end="25742000000t" region="bottomCenter" style="s1" xml:id="subtitle520">Какой кошмар,</p>
+<p begin="25752400000t" end="25763600000t" region="bottomCenter" style="s1" xml:id="subtitle521">Игорь Андреевич!</p>
+<p begin="25784800000t" end="25799200000t" region="bottomCenter" style="s1" xml:id="subtitle522">Какой кошмар.</p>
+<p begin="25805200000t" end="25826000000t" region="bottomCenter" style="s1" xml:id="subtitle523">Миши Барковского на фото нет.</p>
+<p begin="25866000000t" end="25879600000t" region="bottomCenter" style="s1" xml:id="subtitle524">Подпись есть, фото нет.</p>
+<p begin="25890800000t" end="25899600000t" region="bottomCenter" style="s1" xml:id="subtitle525">Да, действительно.</p>
+<p begin="25935600000t" end="25957600000t" region="bottomCenter" style="s1" xml:id="subtitle526">А! Ну, так, по-видимому,<br/>он сам и фотографировал!</p>
+<p begin="25970800000t" end="25988000000t" region="bottomCenter" style="s1" xml:id="subtitle527">Он абсолютно уникальный мальчик.</p>
+<p begin="25996800000t" end="26027600000t" region="bottomCenter" style="s1" xml:id="subtitle528">Во-первых, по-английски говорит точно,<br/>как на родном.</p>
+<p begin="26030800000t" end="26048400000t" region="bottomCenter" style="s1" xml:id="subtitle529">Во-вторых, учится блестяще.</p>
+<p begin="26050400000t" end="26087600000t" region="bottomCenter" style="s1" xml:id="subtitle530">Легко все схватывает!<br/>Не боится дискутировать с педагогами.</p>
+<p begin="26105200000t" end="26122800000t" region="bottomCenter" style="s1" xml:id="subtitle531">И абсолютно сформировавшийся...</p>
+<p begin="26131200000t" end="26155600000t" region="bottomCenter" style="s1" xml:id="subtitle532">...самостоятельный такой человек.</p>
+<p begin="26180000000t" end="26189200000t" region="bottomCenter" style="s1" xml:id="subtitle533">Знаете...</p>
+<p begin="26204400000t" end="26218000000t" region="bottomCenter" style="s1" xml:id="subtitle534">...такой мужичок.</p>
+<p begin="26246800000t" end="26257200000t" region="bottomCenter" style="s1" xml:id="subtitle535">Счастье...</p>
+<p begin="26272400000t" end="26290800000t" region="bottomCenter" style="s1" xml:id="subtitle536">...для учителя. Правда?</p>
+<p begin="26340800000t" end="26360800000t" region="bottomCenter" style="s1" xml:id="subtitle537">Я уверена,<br/>что для Анастасии Николаевны,</p>
+<p begin="26362000000t" end="26377600000t" region="bottomCenter" style="s1" xml:id="subtitle538">как для классного руководителя...</p>
+<p begin="26389600000t" end="26406800000t" region="bottomCenter" style="s1" xml:id="subtitle539">...такой ученик был просто подарком.</p>
+<p begin="26427600000t" end="26440000000t" region="bottomCenter" style="s1" xml:id="subtitle540">[звонит школьный звонок]</p>
+<p begin="26451200000t" end="26464400000t" region="bottomCenter" style="s1" xml:id="subtitle541">Валентина Леонидовна,</p>
+<p begin="26466000000t" end="26506400000t" region="bottomCenter" style="s1" xml:id="subtitle542">сколько раз вам повторять? Закрывайте<br/>вы окна! Опасно же! Ну дети бегают, а.</p>
+<p begin="26507200000t" end="26543200000t" region="bottomCenter" style="s1" xml:id="subtitle543">Так урок же идет. Никто не бегает.<br/>А окнам высохнуть надо.</p>
+<p begin="26552400000t" end="26563200000t" region="bottomCenter" style="s1" xml:id="subtitle544">Привет.</p>
+<p begin="26573600000t" end="26584000000t" region="bottomCenter" style="s1" xml:id="subtitle545">Привет.</p>
+<p begin="26587600000t" end="26608800000t" region="bottomCenter" style="s1" xml:id="subtitle546">Можешь проводить меня до дома,<br/>если хочешь.</p>
+<p begin="26611200000t" end="26631600000t" region="bottomCenter" style="s1" xml:id="subtitle547">Извини, но у меня<br/>на сегодня другие планы.</p>
+<p begin="26632400000t" end="26650400000t" region="bottomCenter" style="s1" xml:id="subtitle548">Засчитано. Чем меньше женщину<br/>мы любим...</p>
+<p begin="26651600000t" end="26670800000t" region="bottomCenter" style="s1" xml:id="subtitle549">Тем больше нравимся мы ей.<br/>Я знаю продолжение.</p>
+<p begin="26689600000t" end="26708800000t" region="bottomCenter" style="s1" xml:id="subtitle550">- Тем легче.<br/>- Что?</p>
+<p begin="26713600000t" end="26726400000t" region="bottomCenter" style="s1" xml:id="subtitle551">У Пушкина «тем легче».</p>
+<p begin="26736400000t" end="26752400000t" region="bottomCenter" style="s1" xml:id="subtitle552">- Не нравлюсь?<br/>- [мальчик] Худяков.</p>
+<p begin="26766000000t" end="26781600000t" region="bottomCenter" style="s1" xml:id="subtitle553">Здрасте, Анастасия Николаевна.</p>
+<p begin="26784800000t" end="26799600000t" region="bottomCenter" style="s1" xml:id="subtitle554">Здрасте, Анастасия Николаевна.</p>
+<p begin="26804400000t" end="26818800000t" region="bottomCenter" style="s1" xml:id="subtitle555">Добрый день! Идем?</p>
+<p begin="26820000000t" end="26851200000t" region="bottomCenter" style="s1" xml:id="subtitle556">Здрасте, Анастасия Николаевна!<br/>Меня зовут Миша Барковский, я новый</p>
+<p begin="26852800000t" end="26882000000t" region="bottomCenter" style="s1" xml:id="subtitle557">ученик в классе. Примите, пожалуйста,<br/>мои соболезнования,</p>
+<p begin="26884400000t" end="26893200000t" region="bottomCenter" style="s1" xml:id="subtitle558">такое горе.</p>
+<p begin="26898800000t" end="26925200000t" region="bottomCenter" style="s1" xml:id="subtitle559">Мы с ребятами<br/>как-то хотели вас поддержать.</p>
+<p begin="26926000000t" end="26944000000t" region="bottomCenter" style="s1" xml:id="subtitle560">Мы можем просто молча посидеть или...</p>
+<p begin="26950000000t" end="26962000000t" region="bottomCenter" style="s1" xml:id="subtitle561">...не знаю, поговорить.</p>
+<p begin="26967200000t" end="26984800000t" region="bottomCenter" style="s1" xml:id="subtitle562">Простите, наверное,<br/>глупости какие-то несу.</p>
+<p begin="27043200000t" end="27054400000t" region="bottomCenter" style="s1" xml:id="subtitle563">Да нет.</p>
+<p begin="27059200000t" end="27067600000t" region="bottomCenter" style="s1" xml:id="subtitle564">Спасибо.</p>
+<p begin="27084800000t" end="27096400000t" region="bottomCenter" style="s1" xml:id="subtitle565">Прошу.</p>
+<p begin="27194400000t" end="27206800000t" region="bottomCenter" style="s1" xml:id="subtitle566">Пожалуйста, проходите.</p>
+<p begin="27268800000t" end="27305200000t" region="bottomCenter" style="s1" xml:id="subtitle567">- [свистит свисток]<br/>- [Владимир] Раз, два, три, четыре.</p>
+<p begin="27308400000t" end="27351200000t" region="bottomCenter" style="s1" xml:id="subtitle568">Раз, два, три, четыре. Раз, два,</p>
+<p begin="27352400000t" end="27397200000t" region="bottomCenter" style="s1" xml:id="subtitle569">три, четыре. Раз, два, три, четыре.</p>
+<p begin="27405200000t" end="27426400000t" region="bottomCenter" style="s1" xml:id="subtitle570">- [свистит свисток]<br/>- Переходим на легкий бег!</p>
+<p begin="27444400000t" end="27456400000t" region="bottomCenter" style="s1" xml:id="subtitle571">Легкий!</p>
+<p begin="27519200000t" end="27546000000t" region="bottomCenter" style="s1" xml:id="subtitle572">Господи! Столько лет прошло,<br/>и ничего не изменилось.</p>
+<p begin="27552000000t" end="27573600000t" region="bottomCenter" style="s1" xml:id="subtitle573">Ну, почему? Программы новые.</p>
+<p begin="27584000000t" end="27599600000t" region="bottomCenter" style="s1" xml:id="subtitle574">Я вообще-то из большого спорта.</p>
+<p begin="27607600000t" end="27626000000t" region="bottomCenter" style="s1" xml:id="subtitle575">Тренером был, потом вот...</p>
+<p begin="27631200000t" end="27645600000t" region="bottomCenter" style="s1" xml:id="subtitle576">...переквалифицировался.</p>
+<p begin="27678400000t" end="27688800000t" region="bottomCenter" style="s1" xml:id="subtitle577">[Крюков] Ну, рассказывайте.</p>
+<p begin="27716400000t" end="27730000000t" region="bottomCenter" style="s1" xml:id="subtitle578">А я уже всё вчера...</p>
+<p begin="27763200000t" end="27776000000t" region="bottomCenter" style="s1" xml:id="subtitle579">Ну, шел урок.</p>
+<p begin="27786800000t" end="27812800000t" region="bottomCenter" style="s1" xml:id="subtitle580">Девочки отпросились.<br/>Мальчики по программе, ну, у нас там</p>
+<p begin="27814000000t" end="27827600000t" region="bottomCenter" style="s1" xml:id="subtitle581">прыжки были...</p>
+<p begin="27833200000t" end="27843200000t" region="bottomCenter" style="s1" xml:id="subtitle582">...через козла.</p>
+<p begin="27844000000t" end="27872800000t" region="bottomCenter" style="s1" xml:id="subtitle583">Вошла... Анастасия Николаевна...</p>
+<p begin="27877600000t" end="27899200000t" region="bottomCenter" style="s1" xml:id="subtitle584">- ...крикнула что-то.<br/>- Что крикнула?</p>
+<p begin="27919200000t" end="27930400000t" region="bottomCenter" style="s1" xml:id="subtitle585">По-моему, здравствуйте.</p>
+<p begin="27954000000t" end="27973200000t" region="bottomCenter" style="s1" xml:id="subtitle586">[Крюков] Так! Неожиданно.</p>
+<p begin="27978800000t" end="27989200000t" region="bottomCenter" style="s1" xml:id="subtitle587">Дальше что было?</p>
+<p begin="28001200000t" end="28021200000t" region="bottomCenter" style="s1" xml:id="subtitle588">Дальше... Выбежала...</p>
+<p begin="28027200000t" end="28040800000t" region="bottomCenter" style="s1" xml:id="subtitle589">Я услышал крик.</p>
+<p begin="28047200000t" end="28058800000t" region="bottomCenter" style="s1" xml:id="subtitle590">Пошел смотреть.</p>
+<p begin="28074000000t" end="28084400000t" region="bottomCenter" style="s1" xml:id="subtitle591">А там...</p>
+<p begin="28125600000t" end="28140000000t" region="bottomCenter" style="s1" xml:id="subtitle592">Зачем она пришла в спортзал?</p>
+<p begin="28169200000t" end="28180000000t" region="bottomCenter" style="s1" xml:id="subtitle593">Не знаю.</p>
+<p begin="28209200000t" end="28219200000t" region="bottomCenter" style="s1" xml:id="subtitle594">Почему вы меня боитесь?</p>
+<p begin="28235600000t" end="28268400000t" region="bottomCenter" style="s1" xml:id="subtitle595">Я? С чего вы взяли? Я вас не боюсь.</p>
+<p begin="28325200000t" end="28342000000t" region="bottomCenter" style="s1" xml:id="subtitle596">Просто я очень держусь за это место.</p>
+<p begin="28349200000t" end="28367600000t" region="bottomCenter" style="s1" xml:id="subtitle597">Понимаю. Я тоже когда-то...</p>
+<p begin="28378000000t" end="28400000000t" region="bottomCenter" style="s1" xml:id="subtitle598">...следователем был,<br/>начальником отдела.</p>
+<p begin="28412000000t" end="28432000000t" region="bottomCenter" style="s1" xml:id="subtitle599">А щас вот... участковый.</p>
+<p begin="28454400000t" end="28480800000t" region="bottomCenter" style="s1" xml:id="subtitle600">Были когда-то и мы рысаками.</p>
+<p begin="28795600000t" end="28811200000t" region="bottomCenter" style="s1" xml:id="subtitle601">[чириканье птицы]</p>
+<p begin="28818400000t" end="28830000000t" region="bottomCenter" style="s1" xml:id="subtitle602">Глупость какая.</p>
+<p begin="28926000000t" end="28938400000t" region="bottomCenter" style="s1" xml:id="subtitle603">[быстро стучат по клавиатуре]</p>
+<p begin="29192400000t" end="29204800000t" region="bottomCenter" style="s1" xml:id="subtitle604">Какие лица у ребят...</p>
+<p begin="29224400000t" end="29236400000t" region="bottomCenter" style="s1" xml:id="subtitle605">...интересные.</p>
+<p begin="29253200000t" end="29266400000t" region="bottomCenter" style="s1" xml:id="subtitle606">Я тут интересовался.</p>
+<p begin="29282000000t" end="29301200000t" region="bottomCenter" style="s1" xml:id="subtitle607">Оказывается, вы отличный программист.</p>
+<p begin="29318800000t" end="29345200000t" region="bottomCenter" style="s1" xml:id="subtitle608">А если быть точным,<br/>не последний хакер в нашем городе.</p>
+<p begin="29349200000t" end="29359200000t" region="bottomCenter" style="s1" xml:id="subtitle609">Ну, это в прошлом.</p>
+<p begin="29364800000t" end="29374400000t" region="bottomCenter" style="s1" xml:id="subtitle610">Как скажете.</p>
+<p begin="29382800000t" end="29396400000t" region="bottomCenter" style="s1" xml:id="subtitle611">[говорят неразборчиво]</p>
+<p begin="29427200000t" end="29456800000t" region="bottomCenter" style="s1" xml:id="subtitle612">Согласитесь, как-то странно<br/>с такими возможностями,</p>
+<p begin="29464800000t" end="29486800000t" region="bottomCenter" style="s1" xml:id="subtitle613">а вы сидите в этой школе за копейки.</p>
+<p begin="29518000000t" end="29528000000t" region="bottomCenter" style="s1" xml:id="subtitle614">Есть причина.</p>
+<p begin="29566400000t" end="29577600000t" region="bottomCenter" style="s1" xml:id="subtitle615">Точнее, была.</p>
+<p begin="29596000000t" end="29608000000t" region="bottomCenter" style="s1" xml:id="subtitle616">Скучаете по ней?</p>
+<p begin="29748800000t" end="29766800000t" region="bottomCenter" style="s1" xml:id="subtitle617">Во что они играют с такими лицами?</p>
+<p begin="29786000000t" end="29795600000t" region="bottomCenter" style="s1" xml:id="subtitle618">В «Спарту».</p>
+<p begin="29808800000t" end="29832000000t" region="bottomCenter" style="s1" xml:id="subtitle619">Симулятор нового поколения.<br/>Бета-версия.</p>
+<p begin="29841600000t" end="29862400000t" region="bottomCenter" style="s1" xml:id="subtitle620">- Какие правила?<br/>- Никаких.</p>
+<p begin="29880400000t" end="29890800000t" region="bottomCenter" style="s1" xml:id="subtitle621">Вообще никаких правил.</p>
+<p begin="29922400000t" end="29933600000t" region="bottomCenter" style="s1" xml:id="subtitle622">Понимаете?</p>
+<p begin="29948400000t" end="29959600000t" region="bottomCenter" style="s1" xml:id="subtitle623">А Юров где?</p>
+<p begin="29968400000t" end="30013600000t" region="bottomCenter" style="s1" xml:id="subtitle624">Он сюда играть не ходит. Я подозреваю,<br/>что у него даже компьютера дома нет.</p>
+<p begin="30026400000t" end="30040400000t" region="bottomCenter" style="s1" xml:id="subtitle625">А вы не боитесь, что...</p>
+<p begin="30046800000t" end="30065200000t" region="bottomCenter" style="s1" xml:id="subtitle626">...они там чем-то другим занимаются?</p>
+<p begin="30076000000t" end="30086000000t" region="bottomCenter" style="s1" xml:id="subtitle627">Нет, не боюсь.</p>
+<p begin="30088800000t" end="30123200000t" region="bottomCenter" style="s1" xml:id="subtitle628">Я в любой момент могу посмотреть,<br/>что происходит на экране у каждого.</p>
+<p begin="30125200000t" end="30134000000t" region="bottomCenter" style="s1" xml:id="subtitle629">Посмотрите.</p>
+<p begin="30164400000t" end="30188800000t" region="bottomCenter" style="s1" xml:id="subtitle630">Это все равно, что читать чужие письма.</p>
+<p begin="30199200000t" end="30216800000t" region="bottomCenter" style="s1" xml:id="subtitle631">- Я не хочу.<br/>- Я хочу.</p>
+<p begin="30505200000t" end="30520000000t" region="bottomCenter" style="s1" xml:id="subtitle632">[стон]</p>
+<p begin="30593200000t" end="30605600000t" region="topCenter" style="s1" xml:id="subtitle633">[стон]</p>
+<p begin="30637600000t" end="30647600000t" region="topCenter" style="s1" xml:id="subtitle634">[мужчина] <span style="s1_1">Yeah!</span></p>
+<p begin="30663200000t" end="30678000000t" region="topCenter" style="s1" xml:id="subtitle635">[мужчина] <span style="s1_1">Oh, yeah!</span></p>
+<p begin="31555200000t" end="31568000000t" region="bottomCenter" style="s1" xml:id="subtitle636">[быстро стучат по клавиатуре]</p>
+<p begin="32165200000t" end="32185200000t" region="bottomCenter" style="s1" xml:id="subtitle637">*</p>
+</div>
+</body>
+</tt>
